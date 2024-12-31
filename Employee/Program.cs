@@ -11,6 +11,9 @@ namespace MathProject
 
             int sub=MathOperations.Sub(1, 2);
             Console.WriteLine(sub);
+
+            int mul=MathOperations.Mul(1, 2);
+            Console.WriteLine(mul);
         }
     }
 }
