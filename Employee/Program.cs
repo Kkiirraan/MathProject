@@ -14,6 +14,9 @@ namespace MathProject
 
             int mul=MathOperations.Mul(1, 2);
             Console.WriteLine(mul);
+
+            int div=MathOperations.Div(1, 2);
+            Console.WriteLine(div);
         }
     }
 }
